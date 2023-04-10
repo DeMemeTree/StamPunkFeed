@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #79",
+  "name": "Phunk #79",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0079.png"
+}

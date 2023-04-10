@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #8318",
+  "name": "Phunk #8318",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8318.png"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #8385",
+  "name": "Phunk #8385",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8385.png"
+}

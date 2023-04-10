@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #6108",
+  "name": "Phunk #6108",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6108.png"
+}

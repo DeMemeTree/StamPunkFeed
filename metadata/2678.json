@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2678",
+  "name": "Phunk #2678",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2678.png"
+}

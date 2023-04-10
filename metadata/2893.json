@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2893",
+  "name": "Phunk #2893",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2893.png"
+}

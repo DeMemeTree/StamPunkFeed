@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #7163",
+  "name": "Phunk #7163",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7163.png"
+}

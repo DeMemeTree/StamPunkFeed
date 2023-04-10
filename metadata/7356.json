@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #7356",
+  "name": "Phunk #7356",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7356.png"
+}

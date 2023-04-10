@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #4567",
+  "name": "Phunk #4567",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4567.png"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #2242",
+  "name": "Phunk #2242",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2242.png"
+}

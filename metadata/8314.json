@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #8314",
+  "name": "Phunk #8314",
+  "attributes": [
+    {
+      "trait_type": "Nose",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8314.png"
+}

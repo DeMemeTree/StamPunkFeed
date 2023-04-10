@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1966",
+  "name": "Phunk #1966",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1966.png"
+}

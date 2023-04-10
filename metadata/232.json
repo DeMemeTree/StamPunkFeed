@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #232",
+  "name": "Phunk #232",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0232.png"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #3508",
+  "name": "Phunk #3508",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3508.png"
+}

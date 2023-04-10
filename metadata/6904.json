@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6904",
+  "name": "Phunk #6904",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6904.png"
+}

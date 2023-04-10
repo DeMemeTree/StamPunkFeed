@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #3564",
+  "name": "Phunk #3564",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3564.png"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #6471",
+  "name": "Phunk #6471",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6471.png"
+}

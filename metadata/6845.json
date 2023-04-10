@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6845",
+  "name": "Phunk #6845",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6845.png"
+}

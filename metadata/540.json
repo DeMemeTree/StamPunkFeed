@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #540",
+  "name": "Phunk #540",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0540.png"
+}

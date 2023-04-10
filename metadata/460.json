@@ -1,0 +1,31 @@
+{
+  "description": "Phunk #460",
+  "name": "Phunk #460",
+  "attributes": [
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0460.png"
+}

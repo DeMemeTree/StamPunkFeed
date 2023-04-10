@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #820",
+  "name": "Phunk #820",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0820.png"
+}

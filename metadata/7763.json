@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #7763",
+  "name": "Phunk #7763",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Cheeks",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7763.png"
+}

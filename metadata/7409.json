@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #7409",
+  "name": "Phunk #7409",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7409.png"
+}

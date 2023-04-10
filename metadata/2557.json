@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2557",
+  "name": "Phunk #2557",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2557.png"
+}

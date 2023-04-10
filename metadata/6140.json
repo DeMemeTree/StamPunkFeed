@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6140",
+  "name": "Phunk #6140",
+  "attributes": [
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6140.png"
+}

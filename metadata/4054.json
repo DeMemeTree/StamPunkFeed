@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #4054",
+  "name": "Phunk #4054",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4054.png"
+}

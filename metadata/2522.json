@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #2522",
+  "name": "Phunk #2522",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2522.png"
+}

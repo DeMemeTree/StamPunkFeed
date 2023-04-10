@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #1105",
+  "name": "Phunk #1105",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1105.png"
+}

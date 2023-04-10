@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2707",
+  "name": "Phunk #2707",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2707.png"
+}

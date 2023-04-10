@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #6470",
+  "name": "Phunk #6470",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6470.png"
+}

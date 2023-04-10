@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #9644",
+  "name": "Phunk #9644",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9644.png"
+}

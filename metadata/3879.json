@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #3879",
+  "name": "Phunk #3879",
+  "attributes": [
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3879.png"
+}

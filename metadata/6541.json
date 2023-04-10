@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #6541",
+  "name": "Phunk #6541",
+  "attributes": [
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6541.png"
+}

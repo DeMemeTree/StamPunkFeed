@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #7654",
+  "name": "Phunk #7654",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7654.png"
+}

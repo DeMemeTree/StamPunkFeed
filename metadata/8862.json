@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #8862",
+  "name": "Phunk #8862",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8862.png"
+}

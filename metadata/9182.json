@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #9182",
+  "name": "Phunk #9182",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9182.png"
+}

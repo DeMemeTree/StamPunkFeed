@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #7013",
+  "name": "Phunk #7013",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7013.png"
+}

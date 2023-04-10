@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2695",
+  "name": "Phunk #2695",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2695.png"
+}

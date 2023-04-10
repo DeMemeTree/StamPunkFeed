@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6013",
+  "name": "Phunk #6013",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6013.png"
+}

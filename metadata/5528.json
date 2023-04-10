@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #5528",
+  "name": "Phunk #5528",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5528.png"
+}

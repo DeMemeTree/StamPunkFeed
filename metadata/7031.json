@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #7031",
+  "name": "Phunk #7031",
+  "attributes": [
+    {
+      "trait_type": "Emotion",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7031.png"
+}

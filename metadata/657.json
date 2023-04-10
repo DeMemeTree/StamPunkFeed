@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #657",
+  "name": "Phunk #657",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0657.png"
+}

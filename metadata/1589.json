@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1589",
+  "name": "Phunk #1589",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1589.png"
+}

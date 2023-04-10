@@ -1,0 +1,31 @@
+{
+  "description": "Phunk #9037",
+  "name": "Phunk #9037",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9037.png"
+}

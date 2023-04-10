@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #7523",
+  "name": "Phunk #7523",
+  "attributes": [
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Alien"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7523.png"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #3341",
+  "name": "Phunk #3341",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3341.png"
+}

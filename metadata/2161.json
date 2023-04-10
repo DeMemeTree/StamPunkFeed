@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2161",
+  "name": "Phunk #2161",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2161.png"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3483",
+  "name": "Phunk #3483",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3483.png"
+}

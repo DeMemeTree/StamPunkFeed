@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #2772",
+  "name": "Phunk #2772",
+  "attributes": [
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2772.png"
+}

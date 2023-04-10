@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #5948",
+  "name": "Phunk #5948",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5948.png"
+}

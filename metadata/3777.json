@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3777",
+  "name": "Phunk #3777",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3777.png"
+}

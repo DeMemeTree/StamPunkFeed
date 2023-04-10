@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6984",
+  "name": "Phunk #6984",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6984.png"
+}

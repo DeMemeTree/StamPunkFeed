@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #4322",
+  "name": "Phunk #4322",
+  "attributes": [
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4322.png"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2186",
+  "name": "Phunk #2186",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2186.png"
+}

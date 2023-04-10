@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #3506",
+  "name": "Phunk #3506",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3506.png"
+}

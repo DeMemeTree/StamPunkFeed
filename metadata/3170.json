@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3170",
+  "name": "Phunk #3170",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3170.png"
+}

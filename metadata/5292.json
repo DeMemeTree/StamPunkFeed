@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #5292",
+  "name": "Phunk #5292",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5292.png"
+}

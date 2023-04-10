@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #8239",
+  "name": "Phunk #8239",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8239.png"
+}

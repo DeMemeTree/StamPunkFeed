@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #9113",
+  "name": "Phunk #9113",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9113.png"
+}

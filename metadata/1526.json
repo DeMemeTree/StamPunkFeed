@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #1526",
+  "name": "Phunk #1526",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Zombie"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1526.png"
+}

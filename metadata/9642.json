@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #9642",
+  "name": "Phunk #9642",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9642.png"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6759",
+  "name": "Phunk #6759",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6759.png"
+}

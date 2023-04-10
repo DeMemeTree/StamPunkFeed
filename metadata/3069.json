@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3069",
+  "name": "Phunk #3069",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3069.png"
+}

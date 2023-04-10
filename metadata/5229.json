@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #5229",
+  "name": "Phunk #5229",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5229.png"
+}

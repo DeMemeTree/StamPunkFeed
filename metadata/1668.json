@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #1668",
+  "name": "Phunk #1668",
+  "attributes": [
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1668.png"
+}

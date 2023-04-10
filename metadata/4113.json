@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #4113",
+  "name": "Phunk #4113",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4113.png"
+}

@@ -1,0 +1,31 @@
+{
+  "description": "Phunk #6466",
+  "name": "Phunk #6466",
+  "attributes": [
+    {
+      "trait_type": "Teeth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6466.png"
+}

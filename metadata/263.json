@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #263",
+  "name": "Phunk #263",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0263.png"
+}

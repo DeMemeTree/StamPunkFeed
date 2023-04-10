@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6137",
+  "name": "Phunk #6137",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6137.png"
+}

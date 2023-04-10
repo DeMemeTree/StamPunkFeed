@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3077",
+  "name": "Phunk #3077",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3077.png"
+}

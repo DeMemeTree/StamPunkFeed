@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #5409",
+  "name": "Phunk #5409",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5409.png"
+}

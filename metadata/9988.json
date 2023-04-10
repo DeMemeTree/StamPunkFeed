@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #9988",
+  "name": "Phunk #9988",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9988.png"
+}

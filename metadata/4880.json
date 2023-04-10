@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #4880",
+  "name": "Phunk #4880",
+  "attributes": [
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4880.png"
+}

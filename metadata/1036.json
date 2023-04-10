@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1036",
+  "name": "Phunk #1036",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1036.png"
+}

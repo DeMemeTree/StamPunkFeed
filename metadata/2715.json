@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #2715",
+  "name": "Phunk #2715",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2715.png"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1426",
+  "name": "Phunk #1426",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1426.png"
+}

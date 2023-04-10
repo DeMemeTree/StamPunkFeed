@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #3540",
+  "name": "Phunk #3540",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3540.png"
+}

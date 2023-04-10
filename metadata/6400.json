@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #6400",
+  "name": "Phunk #6400",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6400.png"
+}

@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #5711",
+  "name": "Phunk #5711",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5711.png"
+}

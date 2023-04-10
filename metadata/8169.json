@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #8169",
+  "name": "Phunk #8169",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8169.png"
+}

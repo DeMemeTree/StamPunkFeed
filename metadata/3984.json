@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3984",
+  "name": "Phunk #3984",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3984.png"
+}

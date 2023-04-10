@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6141",
+  "name": "Phunk #6141",
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6141.png"
+}

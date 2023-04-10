@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #98",
+  "name": "Phunk #98",
+  "attributes": [
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Welding Goggles"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0098.png"
+}

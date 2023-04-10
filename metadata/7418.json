@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #7418",
+  "name": "Phunk #7418",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7418.png"
+}

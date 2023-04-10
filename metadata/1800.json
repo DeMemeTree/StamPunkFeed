@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #1800",
+  "name": "Phunk #1800",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1800.png"
+}

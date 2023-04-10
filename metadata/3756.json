@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3756",
+  "name": "Phunk #3756",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3756.png"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3597",
+  "name": "Phunk #3597",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3597.png"
+}

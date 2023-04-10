@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #8047",
+  "name": "Phunk #8047",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8047.png"
+}

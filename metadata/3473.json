@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #3473",
+  "name": "Phunk #3473",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3473.png"
+}

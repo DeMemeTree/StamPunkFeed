@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #8390",
+  "name": "Phunk #8390",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8390.png"
+}

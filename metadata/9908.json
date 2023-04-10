@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #9908",
+  "name": "Phunk #9908",
+  "attributes": [
+    {
+      "trait_type": "Lips",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9908.png"
+}

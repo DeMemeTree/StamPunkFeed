@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #184",
+  "name": "Phunk #184",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0184.png"
+}

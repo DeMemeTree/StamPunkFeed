@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #5422",
+  "name": "Phunk #5422",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5422.png"
+}

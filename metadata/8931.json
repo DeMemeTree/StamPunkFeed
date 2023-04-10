@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #8931",
+  "name": "Phunk #8931",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8931.png"
+}

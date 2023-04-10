@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #453",
+  "name": "Phunk #453",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0453.png"
+}

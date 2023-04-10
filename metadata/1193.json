@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #1193",
+  "name": "Phunk #1193",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1193.png"
+}

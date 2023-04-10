@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2001",
+  "name": "Phunk #2001",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2001.png"
+}

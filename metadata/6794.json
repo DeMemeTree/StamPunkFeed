@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6794",
+  "name": "Phunk #6794",
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6794.png"
+}

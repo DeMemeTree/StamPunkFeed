@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #214",
+  "name": "Phunk #214",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0214.png"
+}

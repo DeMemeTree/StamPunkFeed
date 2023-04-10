@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1287",
+  "name": "Phunk #1287",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1287.png"
+}

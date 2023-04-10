@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #6203",
+  "name": "Phunk #6203",
+  "attributes": [
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6203.png"
+}

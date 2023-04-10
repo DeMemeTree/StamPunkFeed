@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1298",
+  "name": "Phunk #1298",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1298.png"
+}

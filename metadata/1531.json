@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1531",
+  "name": "Phunk #1531",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1531.png"
+}

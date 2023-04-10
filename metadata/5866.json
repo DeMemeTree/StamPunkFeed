@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #5866",
+  "name": "Phunk #5866",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5866.png"
+}

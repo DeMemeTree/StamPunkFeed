@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #1363",
+  "name": "Phunk #1363",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1363.png"
+}

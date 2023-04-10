@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #6649",
+  "name": "Phunk #6649",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Zombie"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6649.png"
+}

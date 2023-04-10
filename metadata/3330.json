@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #3330",
+  "name": "Phunk #3330",
+  "attributes": [
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3330.png"
+}

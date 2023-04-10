@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #9872",
+  "name": "Phunk #9872",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9872.png"
+}

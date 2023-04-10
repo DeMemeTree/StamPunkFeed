@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #4825",
+  "name": "Phunk #4825",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4825.png"
+}

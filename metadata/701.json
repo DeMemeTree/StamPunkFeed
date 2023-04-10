@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #701",
+  "name": "Phunk #701",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0701.png"
+}

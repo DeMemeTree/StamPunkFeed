@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #7587",
+  "name": "Phunk #7587",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7587.png"
+}

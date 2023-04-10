@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #1067",
+  "name": "Phunk #1067",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1067.png"
+}

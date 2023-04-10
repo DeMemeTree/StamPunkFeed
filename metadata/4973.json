@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #4973",
+  "name": "Phunk #4973",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4973.png"
+}

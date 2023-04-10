@@ -1,0 +1,15 @@
+{
+  "description": "Phunk #957",
+  "name": "Phunk #957",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0957.png"
+}

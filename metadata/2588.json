@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #2588",
+  "name": "Phunk #2588",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2588.png"
+}

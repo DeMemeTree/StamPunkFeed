@@ -1,0 +1,15 @@
+{
+  "description": "Phunk #183",
+  "name": "Phunk #183",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0183.png"
+}

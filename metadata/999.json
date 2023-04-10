@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #999",
+  "name": "Phunk #999",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0999.png"
+}

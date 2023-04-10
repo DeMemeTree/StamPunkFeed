@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2795",
+  "name": "Phunk #2795",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Cheeks",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2795.png"
+}

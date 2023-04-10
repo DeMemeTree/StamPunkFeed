@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3925",
+  "name": "Phunk #3925",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3925.png"
+}

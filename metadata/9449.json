@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #9449",
+  "name": "Phunk #9449",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9449.png"
+}

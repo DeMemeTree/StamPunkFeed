@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #1450",
+  "name": "Phunk #1450",
+  "attributes": [
+    {
+      "trait_type": "Lips",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1450.png"
+}

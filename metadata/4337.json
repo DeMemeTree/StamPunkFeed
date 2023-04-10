@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #4337",
+  "name": "Phunk #4337",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4337.png"
+}

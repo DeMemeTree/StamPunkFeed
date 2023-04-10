@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #4984",
+  "name": "Phunk #4984",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4984.png"
+}

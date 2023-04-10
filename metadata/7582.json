@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #7582",
+  "name": "Phunk #7582",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7582.png"
+}

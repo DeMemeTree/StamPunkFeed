@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #2960",
+  "name": "Phunk #2960",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2960.png"
+}

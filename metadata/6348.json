@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #6348",
+  "name": "Phunk #6348",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Welding Goggles"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6348.png"
+}

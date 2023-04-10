@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #6357",
+  "name": "Phunk #6357",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk6357.png"
+}

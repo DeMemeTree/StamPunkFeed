@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #1554",
+  "name": "Phunk #1554",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1554.png"
+}

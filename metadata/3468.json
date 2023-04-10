@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #3468",
+  "name": "Phunk #3468",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3468.png"
+}

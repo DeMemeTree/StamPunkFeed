@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #992",
+  "name": "Phunk #992",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0992.png"
+}

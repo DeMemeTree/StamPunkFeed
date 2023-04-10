@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #9514",
+  "name": "Phunk #9514",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9514.png"
+}

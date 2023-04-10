@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3861",
+  "name": "Phunk #3861",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3861.png"
+}

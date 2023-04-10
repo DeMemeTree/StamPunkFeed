@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #9332",
+  "name": "Phunk #9332",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Welding Goggles"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9332.png"
+}

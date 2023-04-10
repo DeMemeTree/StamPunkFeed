@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #8772",
+  "name": "Phunk #8772",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Small Shades"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8772.png"
+}

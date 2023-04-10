@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #8045",
+  "name": "Phunk #8045",
+  "attributes": [
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8045.png"
+}

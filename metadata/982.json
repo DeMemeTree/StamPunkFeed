@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #982",
+  "name": "Phunk #982",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0982.png"
+}

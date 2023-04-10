@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #9809",
+  "name": "Phunk #9809",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9809.png"
+}

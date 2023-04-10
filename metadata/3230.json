@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #3230",
+  "name": "Phunk #3230",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Cheeks",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3230.png"
+}

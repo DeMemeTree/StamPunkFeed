@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #4383",
+  "name": "Phunk #4383",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4383.png"
+}

@@ -26,9 +26,10 @@ node snapshot.js
 ```
 
 4. After the script finishes execution, three JSON files will be generated within the folder `output`:
-    - `valid-assets.json`: Contains the list of valid StamPunks assets.
     - `mintablePunks.json`: Contains the list of mintable punks.
     - `collection.json`: Contains the JSON used by marketplaces.
+
+5. `valid-assets.json` will be rewritten after program completion.
 
 ## Notes
 - The script will cache downloaded images in the `cache` directory. If you want to start from a fresh cache delete this folder. It can take some time to download especially as the stamps feed grows. I will try to update this repo with my cache periodically.

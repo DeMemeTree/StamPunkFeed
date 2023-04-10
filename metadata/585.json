@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #585",
+  "name": "Phunk #585",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0585.png"
+}

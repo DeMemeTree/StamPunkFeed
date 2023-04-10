@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1811",
+  "name": "Phunk #1811",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1811.png"
+}

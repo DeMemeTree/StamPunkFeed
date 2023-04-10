@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #5557",
+  "name": "Phunk #5557",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5557.png"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #2527",
+  "name": "Phunk #2527",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2527.png"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #4996",
+  "name": "Phunk #4996",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4996.png"
+}

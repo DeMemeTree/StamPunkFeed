@@ -1,0 +1,15 @@
+{
+  "description": "Phunk #1002",
+  "name": "Phunk #1002",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1002.png"
+}

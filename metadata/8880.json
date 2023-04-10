@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #8880",
+  "name": "Phunk #8880",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8880.png"
+}

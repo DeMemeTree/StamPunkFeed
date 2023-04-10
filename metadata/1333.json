@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #1333",
+  "name": "Phunk #1333",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1333.png"
+}

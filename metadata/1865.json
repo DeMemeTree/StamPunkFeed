@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #1865",
+  "name": "Phunk #1865",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Welding Goggles"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk1865.png"
+}

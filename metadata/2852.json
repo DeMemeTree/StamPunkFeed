@@ -1,0 +1,27 @@
+{
+  "description": "Phunk #2852",
+  "name": "Phunk #2852",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk2852.png"
+}

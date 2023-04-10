@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #8840",
+  "name": "Phunk #8840",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Emotion",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk8840.png"
+}

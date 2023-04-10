@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #7072",
+  "name": "Phunk #7072",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7072.png"
+}

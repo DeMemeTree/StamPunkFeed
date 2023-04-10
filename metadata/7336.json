@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #7336",
+  "name": "Phunk #7336",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7336.png"
+}

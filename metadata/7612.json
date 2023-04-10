@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #7612",
+  "name": "Phunk #7612",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk7612.png"
+}

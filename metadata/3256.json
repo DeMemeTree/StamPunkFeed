@@ -1,0 +1,15 @@
+{
+  "description": "Phunk #3256",
+  "name": "Phunk #3256",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk3256.png"
+}

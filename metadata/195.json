@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #195",
+  "name": "Phunk #195",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0195.png"
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #5331",
+  "name": "Phunk #5331",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5331.png"
+}

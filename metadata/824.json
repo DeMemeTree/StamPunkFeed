@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #824",
+  "name": "Phunk #824",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0824.png"
+}

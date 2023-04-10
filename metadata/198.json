@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #198",
+  "name": "Phunk #198",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0198.png"
+}

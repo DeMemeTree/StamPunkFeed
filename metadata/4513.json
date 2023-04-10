@@ -1,0 +1,23 @@
+{
+  "description": "Phunk #4513",
+  "name": "Phunk #4513",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Zombie"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk4513.png"
+}

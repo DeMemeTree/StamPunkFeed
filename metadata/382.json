@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #382",
+  "name": "Phunk #382",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk0382.png"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Phunk #5345",
+  "name": "Phunk #5345",
+  "attributes": [
+    {
+      "trait_type": "Hair",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Female"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk5345.png"
+}

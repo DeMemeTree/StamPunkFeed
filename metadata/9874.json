@@ -1,0 +1,15 @@
+{
+  "description": "Phunk #9874",
+  "name": "Phunk #9874",
+  "attributes": [
+    {
+      "trait_type": "Beard",
+      "value": "Big Beard"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    }
+  ],
+  "image_url": "https://gateway.pinata.cloud/ipfs/Qmazio5AkcBwNJByXHtbBk1hgnw4g1ADsYK369TSPLMqar/phunk9874.png"
+}
