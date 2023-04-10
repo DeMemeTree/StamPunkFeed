@@ -1,7 +1,7 @@
 # StamPunks Snapshot Tool
 
 ## Description
-This script is designed to validate StamPunks and create a list of valid assets and mintable punks. It processes a JSON feed of StamPunks, downloads the associated images, and checks them against a local directory of known StamPunks images. The script also verifies the assets on the XChain blockchain.
+This script is designed to validate StamPunks and create a list of valid assets and mintable punks. It processes a JSON feed of StamPunks, downloads the associated images, and checks them against a local directory of known StamPunks images. The script also verifies the assets on XChain api.
 
 ## Dependencies
 - Node.js
