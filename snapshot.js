@@ -3,6 +3,7 @@ const crypto = require("crypto");
 const fs = require("fs").promises;
 const fsSync = require("fs");
 
+var foundJSON = {}
 var allInstancesOfaPunk = {};
 var tempInstance = {};
 let stampsFeed = "https://stampchain.io/stamp.json";
@@ -54,6 +55,7 @@ async function processJsonArray(jsonUrl) {
   try {
     const response = await axios.get(jsonUrl);
     const dataArray = response.data;
+    foundJSON = dataArray
     const stampUrls = dataArray.map((data) => {
       if (data.stamp_url) {
         return data.stamp_url;
@@ -91,11 +93,6 @@ function addToAll(punkId, index) {
   }
 }
 
-async function fetchPUREJSON(jsonUrl) {
-  const response = await axios.get(jsonUrl);
-  return response.data;
-}
-
 function containsStampWithNoSpace(str) {
   let lower = str.toLowerCase();
   return (
@@ -107,7 +104,6 @@ async function main() {
   var newTemp = [];
   tempInstance = {};
   let foundHashes = await processJsonArray(stampsFeed);
-  let foundJSON = await fetchPUREJSON(stampsFeed);
 
   console.log("Called JSON and found feed");
 
@@ -146,7 +142,7 @@ async function main() {
     let id = String(index).padStart(4, "0");
     var punkInstances = allInstancesOfaPunk[id];
     if (punkInstances) {
-      punkInstances = punkInstances.map((item) => foundJSON[item].asset);
+      punkInstances = punkInstances.map((item) => foundJSON[item].cpid);
 
       // check the local cache json to see if we have already validated the asset.
       var isValidAsset = false;
